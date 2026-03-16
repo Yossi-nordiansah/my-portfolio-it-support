@@ -196,7 +196,7 @@ const skillCategories = [
         name: "Nginx Web Server",
         image: "/images/nginx.jpg",
         rating: 4,
-        description: "Nginx configuration as web server, reverse proxy, and SSL/TLS for website deployment."
+        description: "Basic Nginx setup for deploying a website to a web server."
       },
     ]
   },
