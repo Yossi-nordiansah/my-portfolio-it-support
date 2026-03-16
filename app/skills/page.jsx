@@ -12,25 +12,25 @@ const skillCategories = [
         name: "Troubleshooting",
         image: "/icons/troubleshoot.svg",
         rating: 4,
-        description: "Diagnosa dan perbaikan masalah hardware & software Windows, perangkat jaringan, dan peripheral."
+        description: "Diagnose and repair hardware & software issues on Windows systems, network devices, and peripherals."
       },
       {
         name: "OS Installation",
         image: "/icons/windows.svg",
         rating: 4,
-        description: "Instalasi & konfigurasi sistem operasi Windows dan Linux (Ubuntu Server), driver, dan software."
+        description: "Installation & configuration of Windows and Linux (Ubuntu Server) operating systems, drivers, and software."
       },
       {
         name: "Helpdesk & User Support",
         image: "/icons/helpdesk.svg",
         rating: 4,
-        description: "Memberikan dukungan teknis kepada pengguna, tiket helpdesk, dan dokumentasi teknis."
+        description: "Providing technical support to users, managing helpdesk tickets, and creating technical documentation."
       },
       {
         name: "Data Backup & Security",
         image: "/icons/backup.svg",
         rating: 4,
-        description: "Manajemen backup data, keamanan dasar sistem, dan pemeliharaan aset IT."
+        description: "Data backup management, basic system security, and IT asset maintenance."
       },
     ]
   },
@@ -44,19 +44,19 @@ const skillCategories = [
         name: "LAN & IP Config",
         image: "/icons/network.svg",
         rating: 4,
-        description: "Setup jaringan LAN, konfigurasi IP, subnet, dan DHCP untuk lingkungan kantor."
+        description: "LAN network setup, IP addressing, subnetting, and DHCP configuration for office environments."
       },
       {
         name: "Mikrotik",
         image: "/images/mikrotik.png",
         rating: 4,
-        description: "Konfigurasi router Mikrotik: Firewall, NAT, DNS, Routing, dan manajemen bandwidth."
+        description: "Mikrotik router configuration: Firewall, NAT, DNS, Routing, and bandwidth management."
       },
       {
         name: "Network Troubleshooting",
         image: "/icons/network-troubleshoot.svg",
         rating: 4,
-        description: "Diagnosis konektivitas jaringan, analisis trafik, dan pemecahan masalah koneksi."
+        description: "Network connectivity diagnosis, traffic analysis, and connection issue resolution."
       },
     ]
   },
@@ -188,13 +188,13 @@ const skillCategories = [
       },
       {
         name: "Linux Server (Ubuntu)",
-        image: "/icons/linux.svg",
+        image: "/images/ubuntu.png",
         rating: 4,
         description: "Linux Server administration: user management, permissions, services, and packages."
       },
       {
         name: "Nginx Web Server",
-        image: "/icons/nginx.svg",
+        image: "/images/nginx.jpg",
         rating: 4,
         description: "Nginx configuration as web server, reverse proxy, and SSL/TLS for website deployment."
       },
